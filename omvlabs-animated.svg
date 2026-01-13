@@ -1,0 +1,61 @@
+<svg width="320" height="320" viewBox="0 0 320 320"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <radialGradient id="pulseGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#38BDF8"/>
+      <stop offset="100%" stop-color="#0A2540"/>
+    </radialGradient>
+
+    <linearGradient id="flow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8"/>
+      <stop offset="100%" stop-color="#0ea5e9"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Outer Hex -->
+  <polygon points="160,35 270,95 270,225 160,285 50,225 50,95"
+           fill="none"
+           stroke="#38BDF8"
+           stroke-width="3"
+           opacity="0.7"/>
+
+  <!-- Flow Lines -->
+  <g stroke="url(#flow)" stroke-width="2" stroke-dasharray="6 10">
+    <line x1="160" y1="160" x2="160" y2="35"/>
+    <line x1="160" y1="160" x2="270" y2="95"/>
+    <line x1="160" y1="160" x2="270" y2="225"/>
+    <line x1="160" y1="160" x2="160" y2="285"/>
+    <line x1="160" y1="160" x2="50" y2="225"/>
+    <line x1="160" y1="160" x2="50" y2="95"/>
+
+    <animate attributeName="stroke-dashoffset"
+             values="120;0"
+             dur="2.8s"
+             repeatCount="indefinite"/>
+  </g>
+
+  <!-- Center Core -->
+  <circle cx="160" cy="160" r="14" fill="url(#pulseGlow)">
+    <animate attributeName="r"
+             values="12;18;12"
+             dur="2.4s"
+             repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Inner Network -->
+  <g fill="#38BDF8">
+    <circle cx="160" cy="35" r="7"/>
+    <circle cx="270" cy="95" r="7"/>
+    <circle cx="270" cy="225" r="7"/>
+    <circle cx="160" cy="285" r="7"/>
+    <circle cx="50" cy="225" r="7"/>
+    <circle cx="50" cy="95" r="7"/>
+
+    <animate attributeName="opacity"
+             values="0.3;1;0.3"
+             dur="3.2s"
+             repeatCount="indefinite"/>
+  </g>
+
+</svg>
