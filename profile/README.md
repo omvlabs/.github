@@ -1,7 +1,7 @@
 <!-- ===================== OMVLabs ===================== -->
 
 <p align="center">
-  <img src="omvlabs-animated.svg" width="160" alt="OMVLabs Logo"/>
+  <img src="logo" width="160" alt="OMVLabs Logo" width="160"/>
 </p>
 
 <h1 align="center">OMVLabs</h1>
