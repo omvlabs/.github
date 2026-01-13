@@ -1,64 +1,65 @@
 <!-- ===================== OMVLabs ===================== -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/omvlabs/.github/omvlabs-animated.svg" width="160"/>
+  <img src="omvlabs-animated.svg" width="160" alt="OMVLabs Logo"/>
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=34&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=OMVLabs;360%C2%B0+Open+Source+Organization;Engineering+Without+Boundaries;Build.+Explore.+Share." />
-</h1>
+<h1 align="center">OMVLabs</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/omvlabs?style=for-the-badge&color=0ea5e9"/>
-  <img src="https://img.shields.io/github/followers/omvlabs?style=for-the-badge&color=0ea5e9"/>
-  <img src="https://img.shields.io/badge/Open%20Source-Forever-blue?style=for-the-badge"/>
+  <b>360° Open-Source Technology Organization</b><br/>
+  Building systems, tools, and foundations across modern tech
 </p>
 
----
-
-## 🌌 About OMVLabs
-
-**OMVLabs** is a **full-spectrum open-source organization** dedicated to building,
-experimenting, and maintaining technology across the **entire modern stack**.
-
-We are not constrained by domains.  
-We exist to **connect ideas, systems, and people**.
+<!-- <p align="center">
+  <img src="https://img.shields.io/github/stars/omvlabs?style=flat-square"/>
+  <img src="https://img.shields.io/github/followers/omvlabs?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Open%20Source-Public-blue?style=flat-square"/>
+</p> -->
 
 ---
 
-## 🧭 Vision
+## About
+
+**OMVLabs** is an open-source organization focused on building and maintaining
+technology projects across the broader software and systems landscape.
+
+We operate with a long-term mindset — prioritizing clarity, correctness,
+and community over trends or hype.
+
+---
+
+## Focus
+
+OMVLabs is intentionally **domain-agnostic**.  
+Projects may span areas such as:
+
+- Systems & infrastructure
+- Developer tooling
+- Web & backend engineering
+- Cloud-native patterns
+- Experimental and research-driven work
+
+The common thread is **strong engineering foundations**.
+
+---
+
+## Principles
+
+- Open by default  
+- Designed to be built upon  
+- Documentation matters  
+- Community over individual ownership  
+
+---
+
+## Status
+
+OMVLabs is in an **early foundation stage**.
+Projects and contribution guidelines will be added incrementally as they mature.
+
+---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?size=18&duration=2200&color=22d3ee&center=true&vCenter=true&width=800&lines=Open+Source+as+Infrastructure;Technology+Without+Boundaries;From+Ideas+to+Impact;Built+in+Public" />
-</p>
-
----
-
-## 🚀 What We Stand For
-
-- 🧠 Long-term engineering over short-term trends  
-- 🛠 Strong foundations before scale  
-- 🌍 Community-driven innovation  
-- 🧩 Systems that grow with people  
-
----
-
-## 🛰 Philosophy
-
-> Open source is not about visibility.  
-> It’s about **enablement**.
-
-We build in public.  
-We optimize for clarity.  
-We ship with intent.
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=120&section=footer"/>
-</p>
-
-<p align="center">
-  <b>OMVLabs</b><br/>
-  Engineering the Open Future 🚀
+  <sub>OMVLabs — Engineering the open future.</sub>
 </p>
