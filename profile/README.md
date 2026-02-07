@@ -17,7 +17,7 @@
 </p>
 
 <h1 align="center" style="font-size: 3rem; letter-spacing: 0.05em;">
-  OMVLabs
+  OMV Labs
 </h1>
 
 <p align="center">
@@ -35,7 +35,7 @@
 
 ## About
 
-**OMVLabs** is an open-source organization focused on building and maintaining
+**OMV Labs** is an open-source organization focused on building and maintaining
 technology projects across the broader software and systems landscape.
 
 We operate with a **long-term engineering mindset** — prioritizing:
@@ -51,7 +51,7 @@ and extensible over time.
 
 ## Focus
 
-OMVLabs is intentionally **domain-agnostic**.
+OMV Labs is intentionally **domain-agnostic**.
 
 Rather than optimizing for a single category, we build **foundational tools**
 that sit underneath modern technology stacks.
@@ -86,7 +86,7 @@ The unifying principle is **strong engineering fundamentals**.
 
 ## Status
 
-OMVLabs is currently in an **early foundation stage**.
+OMV Labs is currently in an **early foundation stage**.
 
 Projects, contribution guidelines, and governance models  
 will be introduced incrementally as repositories mature.
@@ -104,6 +104,6 @@ We favor **intentional growth** over rapid expansion.
 
 <p align="center">
   <sub>
-    OMVLabs — Engineering the open future.
+    OMV Labs — Engineering the open future.
   </sub>
 </p>
