@@ -2,7 +2,7 @@
 
 <p align="center">
   <img 
-    src="logo-main.png"
+    src="logo-1.png"
     alt="OMVLabs Logo"
     style="max-width: 520px; width: 100%; height: auto;"
   />
